@@ -620,7 +620,7 @@ chmod 755 my-script.sh
 ```
 echo Hello World
 ```
- 
+
 cat << stop > herecheck.txt
 ```
 hello in this world
